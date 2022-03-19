@@ -7,7 +7,6 @@
 
 ## Demo
 [![To-do-App](https://img.shields.io/badge/Tryit-(here)-blue.svg)](https://imaha7-kanban.netlify.app/)
-![demo](./src/assets/demo.gif)
 
 
   
